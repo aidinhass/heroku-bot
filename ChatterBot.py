@@ -5,10 +5,10 @@ import time
 from config import consumer_key, consumer_secret, access_token, access_token_secret
 
 # Twitter API Keys
-consumer_key = "pWaFRDgs0S7kyzHX9ZLfNwxhX"
-consumer_secret = "iAcooaCTfBUi9HpZM2ZpDAwKyNdRnQX3Ed9nOcb4mWJELgqlGH"
-access_token = "777278389-wVm7P0RGRNr4YHVW85zXz8u4ngMs3EBaiKijmdBV"
-access_token_secret = "y1o6ddNxbJfHz2h3mOux10LKDbLbFAvQ0VBTy4Fovp4Hs"
+consumer_key = "CrcG6uQ3dbkxm5YBXFaB7fEzr"
+consumer_secret = "khXxwvCxvHv99b7LBY5DMZbMTaIx6IjONzqpIwedoc85zgBmrQ"
+access_token = "998708479354392577-v7ue24YeFRCyNXfEGM30tyIW50bAi1m"
+access_token_secret = "196hEBE1DczjXCUNhZ6KFZxYfQDvEKduE4rpgF1cUwaMi"
 
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
