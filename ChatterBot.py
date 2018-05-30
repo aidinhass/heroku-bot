@@ -2,7 +2,6 @@
 import tweepy
 import json
 import time
-from config import consumer_key, consumer_secret, access_token, access_token_secret
 
 # Twitter API Keys
 consumer_key = "CrcG6uQ3dbkxm5YBXFaB7fEzr"
